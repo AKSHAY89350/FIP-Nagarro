@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "FIP"
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/AKSHAY89350/FIP-Nagarro
 spec:
   type: service
   owner: user:guest
