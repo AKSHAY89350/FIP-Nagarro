@@ -1,0 +1,6 @@
+site_name: 'Testing'
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
+  
